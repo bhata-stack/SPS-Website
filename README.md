@@ -1,4 +1,6 @@
 The website for the RPI Society of Physics Students, currently a work in progress.
+https://bhata-stack.github.io/SPS-Website/
+
 
 Website Template:
 
